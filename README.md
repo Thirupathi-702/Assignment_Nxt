@@ -55,3 +55,4 @@ This is the backend server for the Note Keeper application. It provides APIs for
 ![image](https://github.com/user-attachments/assets/5388f682-42f2-4366-8ddc-b0b87f21354f)
 
 
+![Screenshot 2024-07-18 211648](https://github.com/user-attachments/assets/6d6723e6-6be8-414d-9d30-bf68db8994da)
