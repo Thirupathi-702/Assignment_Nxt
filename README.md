@@ -53,8 +53,8 @@ This is the backend server for the Note Keeper application. It provides APIs for
   "reminder": "2024-07-20T10:00:00Z"
 }
 ```
-<img src="./myimage.jpg">
-![image](https://github.com/user-attachments/assets/5388f682-42f2-4366-8ddc-b0b87f21354f)
+<img src="./myimage.png">
+
+![data](https://github.com/user-attachments/assets/1795a8f9-c4ee-4aa0-bbca-321a1fa9ae64)
 
 
-![Screenshot 2024-07-18 211648](https://github.com/user-attachments/assets/6d6723e6-6be8-414d-9d30-bf68db8994da)
