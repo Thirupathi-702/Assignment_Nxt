@@ -52,4 +52,6 @@ This is the backend server for the Note Keeper application. It provides APIs for
   "color": "#FFFFFF",
   "reminder": "2024-07-20T10:00:00Z"
 }
+![image](https://github.com/user-attachments/assets/5388f682-42f2-4366-8ddc-b0b87f21354f)
+
 
