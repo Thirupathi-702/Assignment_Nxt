@@ -1,4 +1,4 @@
-# Note Keeper Backend
+# Note  Backend
 
 This is the backend server for the Note Keeper application. It provides APIs for user authentication and note management.
 
