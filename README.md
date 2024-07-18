@@ -1,3 +1,7 @@
+## Deployed API Link
+```bash
+http://ec2-3-108-252-225.ap-south-1.compute.amazonaws.com:3000
+```
 # Note  Backend
 
 This is the backend server for the Note Keeper application. It provides APIs for user authentication and note management.
