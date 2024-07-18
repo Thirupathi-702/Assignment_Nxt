@@ -28,7 +28,7 @@ This is the backend server for the Note Keeper application. It provides APIs for
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/note-keeper-backend.git
-   cd note-keeper-backend
+   npm i
 
 ## login 
 1.json sample 
