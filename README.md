@@ -32,11 +32,15 @@ This is the backend server for the Note Keeper application. It provides APIs for
 
 ## login 
 1.json sample 
+```bash
 {
   "email": "a@gmail.com",
   "password": "a1234"
 }
+```
+
 ## post notes
+```bash
 {
   "title": "Gym",
   "content": "Gym >>GYM",
